@@ -7,8 +7,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/pn_red"
-        >
+        android:background="@color/pn_red">
 
         <TextView
             android:id="@+id/main_username"
@@ -18,6 +17,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="25sp"/>
+        <ImageView
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_action_logout"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:onClick="signOut"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
 
         <View
             android:layout_alignParentBottom="true"

@@ -9,8 +9,8 @@ public class Constants {
     public static final String CALL_USER    = "me.kg.androidrtc.SHARED_PREFS.CALL_USER";
     public static final String STDBY_SUFFIX = "-stdby";
 
-    public static final String PUB_KEY = "pub-c-9d0d75a5-38db-404f-ac2a-884e18b041d8"; // Your Pub Key
-    public static final String SUB_KEY = "sub-c-4e25fb64-37c7-11e5-a477-0619f8945a4f"; // Your Sub Key
+    public static final String PUB_KEY = "pub-c-fd1f666d-ca5a-405b-8c4a-18192ee62935";
+    public static final String SUB_KEY = "pub-c-fd1f666d-ca5a-405b-8c4a-18192ee62935";
 
 //    public static final String PUB_KEY = "demo"; // Your Pub Key
 //    public static final String SUB_KEY = "demo"; // Your Sub Key
